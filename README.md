@@ -7,24 +7,20 @@ This project showcases an interactive Power BI dashboard built to analyze and vi
 The dataset includes 119,760 records and spans multiple sales categories and KPIs. The dashboard is split into four pages:
 
 1. Overall Sales
-
 ➡️Top-performing products
 ➡️Orders by time
 ➡️Sales by category
 ➡️Key KPIs (Orders, Amount, B2B, etc.)
 
 2. Category-Wise Sales
-
 ➡️Sales across regions, sizes, and categories
 ➡️Time-series performance
 ➡️Category-specific KPIs
 
 3. B2B Sales
-
 ➡️Business-to-business orders across regions and product types Cancellations
 
 4. Cancellations
-
 ➡️Cancellation trends over time
 ➡️Impact of promotions on cancellations
 ➡️Regional cancellation patterns
