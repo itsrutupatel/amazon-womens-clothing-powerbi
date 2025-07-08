@@ -8,7 +8,7 @@ The dataset includes 119,760 records and spans multiple sales categories and KPI
 
 1. Overall Sales
 
-- ➡️Top-performing products
+➡️Top-performing products
 ➡️Orders by time
 ➡️Sales by category
 ➡️Key KPIs (Orders, Amount, B2B, etc.)
